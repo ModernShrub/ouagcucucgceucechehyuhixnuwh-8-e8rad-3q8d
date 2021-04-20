@@ -1,0 +1,11 @@
+var fname = "Ishan";
+var lname = "Nair";
+console.log("my first console project");
+var funame = fname.concat(lname);
+console.log(funame);
+var n1 = 6;
+var n2 = 12;
+console.log(n1 * n2);
+console.log(n1 - n2);
+console.log(n1 / n2);
+console.log(n1 + n2);
